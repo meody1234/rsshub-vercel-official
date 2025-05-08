@@ -1,10 +1,14 @@
 {
-  "name": "rsshub-vercel-official-lite",
+  "name": "rsshub-vercel",
   "version": "1.0.0",
   "main": "lib/index.js",
   "type": "commonjs",
   "license": "MIT",
   "dependencies": {
+    "art-template": "^4.13.2",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "dayjs": "^1.11.10",
     "rsshub": "^1.0.0"
   }
 }
