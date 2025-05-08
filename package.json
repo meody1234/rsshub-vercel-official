@@ -2,6 +2,9 @@
   "name": "rsshub-vercel-official-lite",
   "version": "1.0.0",
   "main": "lib/index.js",
+  "type": "commonjs",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "rsshub": "^1.0.0"
+  }
 }
