@@ -1,27 +1,11 @@
 {
-<<<<<<< HEAD
-  "name": "rsshub-vercel",
-=======
-  "name": "rsshub-vercel-official-lite",
->>>>>>> 85e05dc (move deploy files to root)
+  "name": "rsshub-vercel-official",
   "version": "1.0.0",
+  "description": "RSSHub Vercel Official Deployment",
   "main": "lib/index.js",
-  "type": "commonjs",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
   "license": "MIT",
-  "dependencies": {
-<<<<<<< HEAD
-    "art-template": "^4.13.2",
-    "axios": "^1.6.7",
-    "cheerio": "^1.0.0-rc.12",
-    "dayjs": "^1.11.10",
-    "rsshub": "^1.0.0"
-  }
+  "dependencies": {}
 }
-=======
-    "rsshub": "^1.0.0",
-    "axios": "^1.6.7",
-    "cheerio": "^1.0.0-rc.12",
-    "dayjs": "^1.11.10"
-  }
-}
->>>>>>> 85e05dc (move deploy files to root)
